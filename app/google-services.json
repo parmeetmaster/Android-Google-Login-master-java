@@ -45,17 +45,17 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:989859655567:android:ea73feb4ca47ffc4d925fa",
+        "mobilesdk_app_id": "1:989859655567:android:c681e90c26f6b388d925fa",
         "android_client_info": {
-          "package_name": "com.codeseasy.googlelogin"
+          "package_name": "com.codeseasy.googleloginmaster"
         }
       },
       "oauth_client": [
         {
-          "client_id": "989859655567-d4ud9ujt17su6d8soghqq6qv4m6jralt.apps.googleusercontent.com",
+          "client_id": "989859655567-29q9049240livqi8avina98babpmrar7.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.codeseasy.googlelogin",
+            "package_name": "com.codeseasy.googleloginmaster",
             "certificate_hash": "4b699d5154168bc45bd06ec3ff18952b4201772f"
           }
         },

@@ -4,7 +4,7 @@ apply plugin: 'com.google.gms.google-services'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId 'com.codeseasy.googlelogin'
+        applicationId 'com.codeseasy.googleloginmaster'
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1
